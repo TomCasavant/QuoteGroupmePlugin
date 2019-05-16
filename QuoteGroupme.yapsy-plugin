@@ -1,0 +1,9 @@
+[Core]
+Name = Quote Plugin
+Module = QuotePlugin
+
+[Documentation]
+Author = Tom Casavant
+Version = 0.1
+Website = http://www.tomcasavant.com
+Description = Replies to user with a random quote when they type "!quote"
